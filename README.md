@@ -48,10 +48,6 @@ An AI-powered project I'm building to explore modern web development and AI inte
 
 **Tech:** React • TypeScript • Node.js • AI
 
-### 📚 DSA in C++
-
-A collection of my Data Structures & Algorithms learning, implementations, and problem-solving practice.
-
 ### 💻 More Projects Coming
 
 I'm continuously building and experimenting with new ideas as I learn.
